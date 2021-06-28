@@ -11,4 +11,4 @@ RUN npm install
 # Push in app source
 COPY . /usr/src/nodedockerapp
 
-CMD [ "/bin/bash" ]exe
+CMD [ "/bin/bash" ]
